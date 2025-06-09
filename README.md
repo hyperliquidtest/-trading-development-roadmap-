@@ -17,7 +17,7 @@ A complete step-by-step system for developing from beginner to elite trader.
 |[Stage 1: Newbie](Stage%201%20-%20Newbie.md)|Foundation Building|Market basics|
 |[Stage 2: Trainee](Stage%202%20-%20Trainee.md)|Process Development|[Pairs in Play](Pairs%20in%20Play.md)|
 |[Stage 3: Novice](Stage%203%20-%20Novice.md)|Strategy Formalization|[Trading Playbook](Trading%20Playbook.md), [Daily Report Card](Daily%20Report%20Card.md)|
-|[Stage 4: Intermediate](Stage%204%20-%20Intermediate.md)|Scaling + Psychology|Trading Psychology|
+|[Stage 4: Intermediate](Stage%204%20-%20Intermediate.md)|Scaling + Psychology|[Trading Psychology](Trading%20Psychology.md)|
 |[Stage 5: Advanced](Stage%205%20-%20Advanced.md)|Size Pushing + Adaptation|[Ultra Learning](Ultra%20Learning.md)|
 |[Stage 6: Elite](Stage%206%20-%20Elite.md)|Flow State + Optimization|Peak performance|
 
@@ -25,9 +25,9 @@ A complete step-by-step system for developing from beginner to elite trader.
 Learn how to find your edge in the market with these four methods:
 
 - [Observation Method](Observation%20Method.md)
-- [Hypothesis Formation](Hypothesis%20Formation.md)
-- [Reverse Engineering](Reverse%20Engineering.md)
-- [Copy a Master](Copy%20a%20Master.md)
+- [Hypothesis Formation](Hypothesis%20Formation%20Method.md)
+- [Reverse Engineering](Reverse%20Engineering%20Method.md)
+- [Copy a Master](Copy%20a%20Master%20Method.md)
 
 ## Support Systems
 - [Constant Learning](Constant%20Learning.md) - Your continuous improvement engine
@@ -38,7 +38,7 @@ Learn how to find your edge in the market with these four methods:
 2. Set up [Process and Daily Routine](Process%20and%20Daily%20Routine.md)
 3. Determine your stage with [Six Stage Path](Six%20Stage%20Path.md)
 4. Follow your current stage's guidance
-5. Use [Daily Report Card](https://claude.ai/chat/Daily%20Report%20Card.md) every day
+5. Use [Daily Report Card](Daily%20Report%20Card.md) every day
 
 ---
 
