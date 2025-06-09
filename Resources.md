@@ -22,8 +22,7 @@ Resources that i used to write this Doc. Ai and past experiences are given.
 7. "Mastery" by Robert Greene
 8. "Fooled by Randomness" by Nassim Taleb
 9. "Thinking in Bets" by Annie Duke
-10. "Antifragile" by Nassim Taleb
-11. "Atomic Habits" by James Clear
-12. "Ultralearning" by Scott H. Young
-13. "The Formula" by Albert-László Barabási
+10. "Atomic Habits" by James Clear
+11. "Ultralearning" by Scott H. Young
+12. "The Formula" by Albert-László Barabási
 
