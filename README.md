@@ -36,7 +36,7 @@ Learn how to find your edge in the market with these four methods:
 ## Quick Start
 1. Read [Core Philosophy](Core%20Philosophy.md)
 2. Set up [Process and Daily Routine](Process%20and%20Daily%20Routine.md)
-3. Determine your stage with [Six Stage Path](Six%20Stage%20Path.md)
+3. Determine your stage with [Six Stage Path](Six%20Stage%20Development%20Path.md)
 4. Follow your current stage's guidance
 5. Use [Daily Report Card](Daily%20Report%20Card.md) every day
 
