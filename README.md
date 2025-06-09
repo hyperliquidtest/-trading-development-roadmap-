@@ -2,7 +2,7 @@
 
 A complete step-by-step system for developing from beginner to elite trader.
 
-![Trading Roadmap Overview](https://claude.ai/chat/roadmap-overview.png)
+![Trading Roadmap Overview](roadmap-overview.png)
 
 ## How to Use This Roadmap
 1. **Start Here**: Read [Core Philosophy](https://claude.ai/chat/Core%20Philosophy.md)
