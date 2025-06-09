@@ -17,7 +17,7 @@ A complete step-by-step system for developing from beginner to elite trader.
 |[Stage 1: Newbie](Stage%201%20-%20Newbie.md)|Foundation Building|Market basics|
 |[Stage 2: Trainee](Stage%202%20-%20Trainee.md)|Process Development|[Pairs in Play](Pairs%20in%20Play.md)|
 |[Stage 3: Novice](Stage%203%20-%20Novice.md)|Strategy Formalization|[Trading Playbook](Trading%20Playbook.md), [Daily Report Card](Daily%20Report%20Card.md)|
-|[Stage 4: Intermediate](Stage%204%20-%20Intermediate.md)|Scaling + Psychology|[Trading Psychology](Trading%20Psychology.md)|
+|[Stage 4: Intermediate](Stage%204%20-%20Intermediate.md)|Scaling + Psychology|Trading Psychology|
 |[Stage 5: Advanced](Stage%205%20-%20Advanced.md)|Size Pushing + Adaptation|[Ultra Learning](Ultra%20Learning.md)|
 |[Stage 6: Elite](Stage%206%20-%20Elite.md)|Flow State + Optimization|Peak performance|
 
